@@ -70,12 +70,12 @@ h4 {
 }
 
 .bg {
-  background-image: url(/img/bg-hero.jpg);
+  background-image: url(/portfolio2/img/bg-hero.jpg);
   background-repeat: no-repeat;
 }
 @media (max-width: 768px) {
   .bg {
-    background-image: url(/img/mobile-tablet/bg.jpg);
+    background-image: url(/portfolio2/img/mobile-tablet/bg.jpg);
   }
 }
 
@@ -287,13 +287,13 @@ h4 {
 }
 
 .logo {
-  background-image: url(/img/logo.svg);
+  background-image: url(/portfolio2/img/logo.svg);
   width: 50px;
   height: 40px;
   background-repeat: no-repeat;
 }
 .logo:hover {
-  background-image: url(/img/logo1.svg);
+  background-image: url(/portfolio2/img/logo1.svg);
   transition: 2s;
 }
 
@@ -457,13 +457,13 @@ h4 {
 }
 
 .video__img {
-  background-image: url(/img/wedding.jpg);
+  background-image: url(/portfolio2/img/wedding.jpg);
   width: 100%;
   height: 705px;
 }
 @media (max-width: 768px) {
   .video__img {
-    background-image: url(/img/mobile-tablet/video-player.jpg);
+    background-image: url(/portfolio2/img/mobile-tablet/video-player.jpg);
     background-repeat: no-repeat;
     width: 100%;
     height: 418px;
@@ -650,7 +650,7 @@ h4 {
 }
 
 .icon__inst {
-  background-image: url(/img/icon-inst.svg);
+  background-image: url(/portfolio2/img/icon-inst.svg);
   width: 27px;
   height: 27px;
   display: inline-block;
@@ -658,12 +658,12 @@ h4 {
 }
 
 .icon__inst:hover {
-  background-image: url(/img/icon-inst2.svg);
+  background-image: url(/portfolio2/img/icon-inst2.svg);
   transition: 2s;
 }
 
 .icon__facebook {
-  background-image: url(/img/icon-facebook.svg);
+  background-image: url(/portfolio2/img/icon-facebook.svg);
   width: 27px;
   height: 27px;
   display: inline-block;
@@ -671,12 +671,12 @@ h4 {
 }
 
 .icon__facebook:hover {
-  background-image: url(/img/icon-facebook2.svg);
+  background-image: url(/portfolio2/img/icon-facebook2.svg);
   transition: 2s;
 }
 
 .icon__twitter {
-  background-image: url(/img/icon-twitter.svg);
+  background-image: url(/portfolio2/img/icon-twitter.svg);
   width: 27px;
   height: 27px;
   display: inline-block;
@@ -684,12 +684,12 @@ h4 {
 }
 
 .icon__twitter:hover {
-  background-image: url(/img/icon-twitter2.svg);
+  background-image: url(/portfolio2/img/icon-twitter2.svg);
   transition: 2s;
 }
 
 .icon__pin {
-  background-image: url(/img/icon-pin.svg);
+  background-image: url(/portfolio2/img/icon-pin.svg);
   width: 27px;
   height: 27px;
   display: inline-block;
@@ -697,16 +697,16 @@ h4 {
 }
 
 .icon__pin:hover {
-  background-image: url(/img/icon-pin2.svg);
+  background-image: url(/portfolio2/img/icon-pin2.svg);
   transition: 2s;
 }
 
 .contacts__bg {
-  background-image: url(/img/contactsbg.jpg);
+  background-image: url(/portfolio2/img/contactsbg.jpg);
 }
 @media (max-width: 768px) {
   .contacts__bg {
-    background-image: url(/img/mobile-tablet/bg-contacts.jpg);
+    background-image: url(/portfolio2/img/mobile-tablet/bg-contacts.jpg);
   }
 }
 
